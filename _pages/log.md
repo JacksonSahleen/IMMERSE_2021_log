@@ -7,7 +7,14 @@ title: IMMERSE Log
 
 * **Monday**: Basic setup and rebuilding my machine. 
 * **Tuesday**: Finish setup, linux tutorials, and beginning website construction
+* **Wednesday**: Finish linux tutorials and finish website construction
+* **Thursday**: Git follow-up activities, xrdp trials, and linking website to Computer Bootcamp website student list
+* **Friday**: Github follow-up activities and xrdp trials
+
+### Week 2: May 3, 2021 - May 7, 2021
+
+* **Monday**: 
+* **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
-* **Friday**:
-
+* **Friday**
