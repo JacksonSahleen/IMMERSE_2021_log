@@ -13,9 +13,9 @@ Jackson Sahleen's website log for IMMERSE 2021
 | Day | Hours |
 | :--- | :-----: |
 | Mon: | 10 AM - 5 PM |
-| Tues: | 10 AM - 12 PM, 3 PM - 5 PM |
+| Tues: | 10 AM - 12 PM (Remote), 3 PM - 5 PM |
 | Wed: | 10 AM - 5 PM |
-| Thur: | 10 AM - 12 PM, 3 PM - 5 PM |
+| Thur: | 10 AM - 12 PM (Remote), 3 PM - 5 PM |
 | Fri: | 10 AM - 5 PM |
 | | |
 
