@@ -13,8 +13,8 @@ title: IMMERSE Log
 
 ### Week 2: May 3, 2021 - May 7, 2021
 
-* **Monday**: 
-* **Tuesday**: 
-* **Wednesday**: 
+* **Monday**: Familiarization with C, finish connecting and setting up xrdp connection along with process documentation.
+* **Tuesday**: Familiarization with C, Installation of ProjectXray
+* **Wednesday**: Finish installation of ProjectXray, getting caught up on ProjectXray documentation
 * **Thursday**: 
 * **Friday**
