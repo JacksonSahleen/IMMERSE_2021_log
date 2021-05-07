@@ -16,5 +16,5 @@ title: IMMERSE Log
 * **Monday**: Familiarization with C, finish connecting and setting up xrdp connection along with process documentation.
 * **Tuesday**: Familiarization with C, Installation of ProjectXray
 * **Wednesday**: Finish installation of ProjectXray, getting caught up on ProjectXray documentation
-* **Thursday**: 
-* **Friday**
+* **Thursday**: ProjectXRay documentation and learning Python
+* **Friday**: ProjectXRay documentation, learning Python, and reviewing presentation on Cmake
