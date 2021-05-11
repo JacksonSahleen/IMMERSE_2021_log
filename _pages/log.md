@@ -18,3 +18,11 @@ title: IMMERSE Log
 * **Wednesday**: Finish installation of ProjectXray, getting caught up on ProjectXray documentation
 * **Thursday**: ProjectXRay documentation and learning Python
 * **Friday**: ProjectXRay documentation, learning Python, and reviewing presentation on Cmake
+
+### Week 3: May 10, 2021 - May 14, 2021
+
+* **Monday**: review python, python practice, reading up on bit2fasm
+* **Tuesday**: cmake review and python practice
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
