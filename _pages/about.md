@@ -5,22 +5,28 @@ title: About
 
 Jackson Sahleen's website log for IMMERSE 2021
 
+----
+
 ### Contact
 
 - **Email**: jackson.sahleen@gmail.com
 
+----
+
 ### Hours
 
-| Day | Hours |
-| :--- | :-----: |
-| Mon: | 10 AM - 5 PM |
-| Tues: | 3 PM - 7 PM |
-| Wed: | 10 AM - 5 PM |
-| Thur: | 3 PM - 7 PM |
-| Fri: | 10 AM - 5 PM |
-| | |
+|Day   | Hours        |
+|:---- | :-----:      |
+|Mon:  | 10 AM - 5 PM |
+|Tues: | 3 PM - 7 PM  |
+|Wed:  | 10 AM - 5 PM |
+|Thur: | 3 PM - 7 PM  |
+|Fri:  | 10 AM - 5 PM |
+|||
 
 Hours subject to change
+
+----
 
 ### Computer Specs
 
