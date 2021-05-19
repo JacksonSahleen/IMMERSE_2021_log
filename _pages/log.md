@@ -13,16 +13,19 @@ title: IMMERSE Log
 
 **Monday**:
 
-- Learn to use vivado through the TCL command line
+- Learn to test circuits through testbenches and run vivado through the tcl command line
 - Create various basic circuits in Vivado
 
 **Tuesday**:
 
-- 
+- Learn to run vivado through the tcl command line
+- Design circuits of increasing complexity and run them through bit2fasm for comparison
 
 **Wednesday**:
 
-- 
+- Finish writing and submit research proposal
+- Python Packages II follow up activities (numpy, matplotlib, pandas)
+- Add to my list of basic vivado circuit designs and their corresponding fasm files from bit2fasm
 
 **Thursday**:
 
