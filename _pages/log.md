@@ -3,13 +3,43 @@ layout: default
 title: IMMERSE Log
 ---
 
+### Week 5: May 24, 2021 - May 28, 2021
+
+**Goals**:
+
+- Get caught up on bootcamp follow-up activities
+- Better understand the purpose of BitInspector and my role in the project
+- Better understand the transition from bitstream to FASM and EDIF files
+
+**Monday**:
+
+- 
+
+**Tuesday**:
+
+- 
+
+**Wednesday**:
+
+- 
+
+**Thursday**:
+
+- 
+
+**Friday**:
+
+- 
+
+----
+
 ### Week 4: May 17, 2021 - May 21, 2021
 
 **Goals**:
 
 - Review and deepen knowledge of TCL
 - learn FPGA structure and correlate FASM code to implementation on the FPGA
-- Continue organization and ordering of documentation.
+- Continue organization and ordering of documentation and tutorials for new team members.
 
 **Monday**:
 
@@ -29,11 +59,13 @@ title: IMMERSE Log
 
 **Thursday**:
 
-- 
+- Learn to create and develop a circuit from project creation to bitstream generation only from the tcl console
+- Evaluate and order topics and resources for learning ProjectXRay
 
 **Friday**:
 
-- 
+- make and cmake review and follow-up activities
+- ethics case study research
 
 ----
 
