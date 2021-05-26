@@ -23,7 +23,8 @@ title: IMMERSE Log
 
 **Wednesday**:
 
-- 
+- Sphinx/Documentation follow-up activity
+- TCL bootcamp review miniprojects
 
 **Thursday**:
 

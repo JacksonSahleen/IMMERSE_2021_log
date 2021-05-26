@@ -5,6 +5,8 @@ title: About
 
 Jackson Sahleen's website log for IMMERSE 2021
 
+<img src="../../images/jackson_sahleen.jpg" alt="Jackson Sahleen" width="200" />
+
 ----
 
 ### Contact
@@ -15,14 +17,14 @@ Jackson Sahleen's website log for IMMERSE 2021
 
 ### Hours
 
-|Day   | Hours        |
-|:---- | :-----:      |
-|Mon:  | 10 AM - 5 PM |
-|Tues: | 3 PM - 7 PM  |
-|Wed:  | 10 AM - 5 PM |
-|Thur: | 3 PM - 7 PM  |
-|Fri:  | 10 AM - 5 PM |
-|||
+|  Day  |    Hours     |
+| :---- |   :-----:    |
+|Mon:   | 10 AM - 5 PM |
+|Tues:  | 3 PM - 7 PM  |
+|Wed:   | 10 AM - 5 PM |
+|Thur:  | 3 PM - 7 PM  |
+|Fri:   | 10 AM - 5 PM |
+|       |              |
 
 Hours subject to change
 
