@@ -13,11 +13,13 @@ title: IMMERSE Log
 
 **Monday**:
 
-- 
+- CSV file parser and python extension follow-up activities
+- Deeper look into implementation design of basic circuits made up until now
 
 **Tuesday**:
 
-- 
+- TCL bootcamp review miniprojects
+- CSV Parser, documentation follow-up activities, docker follow-up activities
 
 **Wednesday**:
 
