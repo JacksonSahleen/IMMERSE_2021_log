@@ -3,6 +3,35 @@ layout: default
 title: IMMERSE Log
 ---
 
+### Week 6: May 31, 2021 - June 1, 2021
+
+**Goals**:
+
+- Finish FPGA Deep Dive
+- Better understand the transition from bitstream to FASM and EDIF files
+
+**Monday**:
+
+- 
+
+**Tuesday**:
+
+- 
+
+**Wednesday**:
+
+- 
+
+**Thursday**:
+
+- 
+
+**Friday**:
+
+- 
+
+----
+
 ### Week 5: May 24, 2021 - May 28, 2021
 
 **Goals**:
@@ -28,11 +57,14 @@ title: IMMERSE Log
 
 **Thursday**:
 
-- 
+- TCL bootcamp miniprojects
+- Docker bootcamp follow-up activity
 
 **Friday**:
 
-- 
+- Docker Bootcamp follow-up activity
+- TCL Bootcamp mini_project4
+- FPGA Deep Dive
 
 ----
 
