@@ -12,23 +12,28 @@ title: IMMERSE Log
 
 **Monday**:
 
-- 
+- Memorial Day
 
 **Tuesday**:
 
-- 
+- FPGA DeepDive
+- TCL mini_project 4
 
 **Wednesday**:
 
-- 
+- FPGA DeepDive
+- My machine had some malware issues and was taken by computer support. Limited now in what I can do for the next couple days.
 
 **Thursday**:
 
-- 
+- Read Mathew Canon's Thesis on Single Event Upsets and specifically about the structure, function, and vulnerabilities of FPGA routing switchboxes on artix7 boards.
+- FPGA DeepDive
+- Meeting with BitInspector teammates about specific roles and fundamentals of individual projects.
 
 **Friday**:
 
-- 
+- FPGA DeepDive
+- Rebuild my machine, reinstall all programs and projects, and restore settings, aliases, and progress.
 
 ----
 
