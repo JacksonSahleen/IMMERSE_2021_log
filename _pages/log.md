@@ -3,7 +3,37 @@ layout: default
 title: IMMERSE Log
 ---
 
-### Week 6: May 31, 2021 - June 1, 2021
+### Week 7: June , 2021 - June 11, 2021
+
+**Goals**:
+
+- Finish FPGA DeepDive
+- Understand the layout and functioning of interconnect tiles and their pips
+- Have a working idea for a system of representing the associated bits in an easier to understand fashion.
+
+**Monday**:
+
+- 
+
+**Tuesday**:
+
+- 
+
+**Wednesday**:
+
+- 
+
+**Thursday**:
+
+- 
+
+**Friday**:
+
+- 
+
+----
+
+### Week 6: May 31, 2021 - June 4, 2021
 
 **Goals**:
 
