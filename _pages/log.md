@@ -9,27 +9,20 @@ title: IMMERSE Log
 
 - Finish FPGA DeepDive
 - Understand the layout and functioning of interconnect tiles and their pips
-- Have a working idea for a system of representing the associated bits in an easier to understand fashion.
 
 **Monday**:
 
-- 
-
-**Tuesday**:
-
-- 
+- Finish machine setup after reboot.
 
 **Wednesday**:
 
-- 
-
-**Thursday**:
-
-- 
+- FPGA deepdive
+- Organize materials and topics for learning bitInspector
 
 **Friday**:
 
-- 
+- Research into the projectXray databases 
+- Look into the internals of interconnect blocks
 
 ----
 
