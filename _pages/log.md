@@ -3,7 +3,30 @@ layout: default
 title: IMMERSE Log
 ---
 
-### Week 7: June , 2021 - June 11, 2021
+### Week 8: June 14, 2021 - June 18, 2021
+
+**Goals**:
+
+- Understand the layout and functioning of interconnect tiles and their pips
+- Better understand ProjectXRay Databases
+- Refresh fasm knowledge
+
+**Wednesday**:
+
+- tcl mini_project 4
+- Research projectxray databases
+
+**Thursday**:
+
+- 
+
+**Friday**:
+
+- 
+
+----
+
+### Week 7: June 7, 2021 - June 11, 2021
 
 **Goals**:
 
