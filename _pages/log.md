@@ -3,18 +3,25 @@ layout: default
 title: IMMERSE Log
 ---
 
-### Week 8: June 14, 2021 - June 18, 2021
+### Week 9: May 21, 2021 - June 25, 2021
 
 **Goals**:
 
-- Understand the layout and functioning of interconnect tiles and their pips
-- Better understand ProjectXRay Databases
-- Refresh fasm knowledge
+- Finish first basic text modelling/formatting script for prjxray interconnect db files
+- Come up with design for second more in-depth version of text modelling/formatting script
+- Extra: Come up with a method of implementing a graphical representation
+
+**Monday**:
+
+- 
+
+**Tuesday**:
+
+- 
 
 **Wednesday**:
 
-- tcl mini_project 4
-- Research projectxray databases
+- 
 
 **Thursday**:
 
@@ -23,6 +30,27 @@ title: IMMERSE Log
 **Friday**:
 
 - 
+
+----
+
+### Week 8: June 14, 2021 - June 18, 2021
+
+**Goals**:
+
+- Understand the layout and functioning of interconnect tiles and their pips
+- Better understand ProjectXRay Databases
+
+**Wednesday**:
+
+- tcl mini_project 4
+- Research projectxray databases
+
+
+**Friday**:
+
+- rebuild machine again
+- review symbiflow/prjxray-db databases
+- create new branch for bitInspector and begin script for parsing and printing out formatted db models
 
 ----
 
