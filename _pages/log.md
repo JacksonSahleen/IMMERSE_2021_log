@@ -7,13 +7,15 @@ title: IMMERSE Log
 
 **Goals**:
 
-- Finish first basic text modelling/formatting script for prjxray interconnect db files
-- Come up with design for second more in-depth version of text modelling/formatting script
-- Extra: Come up with a method of implementing a graphical representation
+- Finish first basic text modelling/formatting summary script for prjxray interconnect db files
+- Add multiple search functions for various parameters un switchbox summary script
+- Expand testing and implementation of switchbox summary script to more database files and pip types.
+- Extra: Come up with a method of implementing a graphical representation of switchbox interactions.
 
 **Monday**:
 
-- 
+- Finish reinstallation and setup
+- Plan out and implement multiple search functions for switchbox summary script
 
 **Tuesday**:
 
