@@ -10,7 +10,6 @@ title: IMMERSE Log
 - Finish first basic text modelling/formatting summary script for prjxray interconnect db files
 - Add multiple search functions for various parameters un switchbox summary script
 - Expand testing and implementation of switchbox summary script to more database files and pip types.
-- Extra: Come up with a method of implementing a graphical representation of switchbox interactions.
 
 **Monday**:
 
@@ -19,11 +18,14 @@ title: IMMERSE Log
 
 **Tuesday**:
 
-- 
+- create a bash script to build a database of switchbox summaries from the prjxray database
+- expand the versatility of the SwitchboxSummary.py script to include and handle more file structures from the prjxray database
 
 **Wednesday**:
 
-- 
+- edit and refocus database bash script on interconnect files
+- research .bits files and bitstream frames
+- develop ideas for implementing a python script for modeling the switchboxes in a design.
 
 **Thursday**:
 
