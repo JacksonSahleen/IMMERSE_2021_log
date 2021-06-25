@@ -7,25 +7,21 @@ title: IMMERSE Log
 
 **Goals**:
 
-- Finish first basic text modelling/formatting summary script for prjxray interconnect db files
-- Add multiple search functions for various parameters un switchbox summary script
-- Expand testing and implementation of switchbox summary script to more database files and pip types.
+- Finish developing first version of fasm2model.py
+- Begin development of error checking processes and simulation scripting for design testing.
+- Complete preliminary analysis and presentaton of ethical case study for Broader Impacts
 
 **Monday**:
 
-- Finish reinstallation and setup
-- Plan out and implement multiple search functions for switchbox summary script
+- 
 
 **Tuesday**:
 
-- create a bash script to build a database of switchbox summaries from the prjxray database
-- expand the versatility of the SwitchboxSummary.py script to include and handle more file structures from the prjxray database
+- 
 
 **Wednesday**:
 
-- edit and refocus database bash script on interconnect files
-- research .bits files and bitstream frames
-- develop ideas for implementing a python script for modeling the switchboxes in a design.
+- 
 
 **Thursday**:
 
@@ -34,6 +30,44 @@ title: IMMERSE Log
 **Friday**:
 
 - 
+
+----
+
+### Week 9: May 21, 2021 - June 25, 2021
+
+**Goals**:
+
+- Finish first basic text modelling/formatting summary script for prjxray interconnect db files
+- Add multiple search functions for various parameters un switchbox summary script
+- Expand testing and implementation of switchbox summary script to more database files and pip types
+
+**Monday**:
+
+- Finish reinstallation and setup
+- Plan out and implement multiple search functions for switchbox summary script
+
+**Tuesday**:
+
+- Create a bash script to build a database of switchbox summaries from the prjxray database
+- Expand the versatility of the SwitchboxSummary.py script to include and handle more file structures from the prjxray database
+
+**Wednesday**:
+
+- Edit and refocus database bash script on interconnect files
+- Research .bits files and bitstream frames
+- Develop ideas for implementing a python script for modeling the switchboxes in a design
+
+**Thursday**:
+
+- Begin Developing fasm2model.py
+- Research connections between fasm, bits, and projectXray database files
+- Research how to deduce which frame in the bitstream influences a specific slice's configuration.
+
+**Friday**:
+
+- Continue developing fasm2model.py
+- Continue researching how to deduce which frame(s) in a bitstream influences a specific slice.
+- Research ethics case study for Broader Impacts: Outreach
 
 ----
 
