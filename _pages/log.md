@@ -13,7 +13,8 @@ title: IMMERSE Log
 
 **Monday**:
 
-- 
+- Added rt_mux class to fasm2model.py
+- Added automatic generation of models for each routing mux in a slice_type
 
 **Tuesday**:
 
