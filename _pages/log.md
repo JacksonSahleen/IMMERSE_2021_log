@@ -18,11 +18,12 @@ title: IMMERSE Log
 
 **Tuesday**:
 
-- 
+- Cleaned up code for fasm2model.py
+- Begun implementation of Fault Injection Bit simulation and error evaluation
 
 **Wednesday**:
 
-- 
+- Chip Camp (Rockets)
 
 **Thursday**:
 
