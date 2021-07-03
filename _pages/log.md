@@ -3,7 +3,36 @@ layout: default
 title: IMMERSE Log
 ---
 
-### Week 9: May 21, 2021 - June 25, 2021
+### Week 11: July 5, 2021 - July 9, 2021
+
+**Goals**:
+
+- Successfully print out a data structure with the given design configuration information from the .bits file through bits2firm.py
+- Complete Preliminary Analysis and presentation of ethical case study for Broader Impacts
+
+**Monday**:
+
+- 
+
+**Tuesday**:
+
+- 
+
+**Wednesday**:
+
+- 
+
+**Thursday**:
+
+- 
+
+**Friday**:
+
+- 
+
+----
+
+### Week 10: June 28, 2021 - July 2, 2021
 
 **Goals**:
 
@@ -27,15 +56,21 @@ title: IMMERSE Log
 
 **Thursday**:
 
-- 
+- Created .firm (FPGA Interconnect Routing Model) output file format
+- Implement .firm format in fasm2model.py output
+- Added file output to fasm2model.py
+- Moved simulation analysis functions and progress to the new SimFBI.py script and began its development
 
 **Friday**:
 
-- 
+- Revise direction with switchbox branch
+- Create bits2firm.py
+- Plan and outline process of bits2firm.py
+- Implement read in of part name and parsing of correct tilegrid.json file for given part
 
 ----
 
-### Week 9: May 21, 2021 - June 25, 2021
+### Week 9: June 21, 2021 - June 25, 2021
 
 **Goals**:
 
