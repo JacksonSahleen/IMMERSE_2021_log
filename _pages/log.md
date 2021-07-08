@@ -12,15 +12,18 @@ title: IMMERSE Log
 
 **Monday**:
 
-- 
+- Holiday
 
 **Tuesday**:
 
-- 
+- Finish tilegrid.json parsing function
+- Parse in .bits files into bits2firm.py
+- Integrate tile classes from fasm2firm.py into bits2firm.py
 
 **Wednesday**:
 
-- 
+- Chip Camp
+- Resolving complications and bugs in bits2firm.py
 
 **Thursday**:
 
