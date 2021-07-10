@@ -3,6 +3,37 @@ layout: default
 title: IMMERSE Log
 ---
 
+### Week 12: July 12, 2021 - July 19, 2021
+
+**Goals**:
+
+- Resolve misunderstandings/questions about the process of associating bit addresses to tile config bit addresses
+- Finish design (and implementation?) of rt_mux model format
+- Complete Preliminary Analysis of ethics case study
+- Create 1st draft of Reasearch Presentation
+
+**Monday**:
+
+- 
+
+**Tuesday**:
+
+- 
+
+**Wednesday**:
+
+- 
+
+**Thursday**:
+
+- 
+
+**Friday**:
+
+- 
+
+----
+
 ### Week 11: July 5, 2021 - July 9, 2021
 
 **Goals**:
@@ -27,11 +58,15 @@ title: IMMERSE Log
 
 **Thursday**:
 
-- 
+- Resolve issues and complications in bits2firm.py
+- Develop format for rt_mux modelling
+- Research ethics case study
 
 **Friday**:
 
-- 
+- Install and setup of Vivado 2019.1 and designs for testing
+- Develop format for rt_mux modelling
+- Resolve current issues in bits2firm.py
 
 ----
 
