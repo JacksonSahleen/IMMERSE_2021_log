@@ -14,7 +14,10 @@ title: IMMERSE Log
 
 **Monday**:
 
-- 
+- Finished setup of arty_dma_000 and dvi_002 designs for testing
+- Tested fasm2firm.py and bits2firm.py for same read in of information
+- Time duration of bits2firm.py reduced by approximatly 91.4%
+- Brainstormed and considered different formats for rt_mux modelling.
 
 **Tuesday**:
 
