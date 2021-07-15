@@ -21,11 +21,15 @@ title: IMMERSE Log
 
 **Tuesday**:
 
-- 
+- Planned format for model representation/reporting
+- Began implemention of model design
 
 **Wednesday**:
 
-- 
+- Implemented and began testing of routing mux modelling
+- Began implementation of modelling for whole tiles and designs
+- Changed name of scripts to bits2model.py and fasm2model.py
+- Moved tile data structures to their own .py script (int_tile.py) that is imported by both fasm- and bits- 2model.py
 
 **Thursday**:
 
