@@ -3,7 +3,41 @@ layout: default
 title: IMMERSE Log
 ---
 
-### Week 12: July 12, 2021 - July 19, 2021
+### Week 13: July 19, 2021 - July 23, 2021
+
+**Goals**:
+
+- Complete first draft of presentation for my project
+- Complete first initial analysis of ethics case study
+- Add statistics to end of file summary for bits2model and fasm2model scripts
+- Update documentation for switchbox modelling and push to master branch for bit_inspector
+
+**Monday**:
+
+- Worked on grapical text-art representation of routing muxes
+- Begin working of presentation
+
+**Tuesday**:
+
+- Cleaned up switchbox directory and removed old and unnecessary files/scripts
+- Updated commits and submitted push request for switchbox branch
+
+**Wednesday**:
+
+- Planned interaction between Cody's get_nets tcl script and bits- and fasm- 2model.py
+- Designed and implemented a simple graphical model of the routing muxes
+
+**Thursday**:
+
+- 
+
+**Friday**:
+
+- Holiday
+
+----
+
+### Week 12: July 12, 2021 - July 16, 2021
 
 **Goals**:
 
@@ -33,11 +67,14 @@ title: IMMERSE Log
 
 **Thursday**:
 
-- 
+- Finished modelling funtions for muxes, tiles, and a design
+- Began implementation of functions for printing models for muxes, tiles, and complete designs
+- Began implementation of graphical text-art modelling
 
 **Friday**:
 
-- 
+- Finished implementation of printing models for muxes, tiles, and complete designs
+- Finished basic implementation of graphical text-art modelling
 
 ----
 
