@@ -2,6 +2,39 @@
 layout: default
 title: IMMERSE Log
 ---
+### Week 14: July 26, 2021 - July 30, 2021
+
+**Goals**:
+
+- Finish and give Technical Presentation on bit_inspector
+- Finish combining chk2fasm and bit/fasm2model scripts to augment modelling
+- Complete inital analysis of ethical case study
+
+**Monday**:
+
+- Finished combining chk2fasm and bit/fasm2model scripts
+- Resolved remaining bugs for simplified graphical models
+- Added net deduction and display for detailed graphical models
+- Presentation planning with Cody
+- Developed Technical Presentation on bit_inspector for Wednesday
+
+**Tuesday**:
+
+- 
+
+**Wednesday**:
+
+- Technical Presentation
+
+**Thursday**:
+
+- 
+
+**Friday**:
+
+- 
+
+----
 
 ### Week 13: July 19, 2021 - July 23, 2021
 
@@ -29,11 +62,13 @@ title: IMMERSE Log
 
 **Thursday**:
 
-- 
+- Finished basic implementation of simplified graphical model
+- Began implementation of pickle files and chk2fasm to obtain net names
+- Developed outline for Technical Presentation on bit_inspector
 
 **Friday**:
 
-- Holiday
+- Holiday (Pioneer Day)
 
 ----
 
