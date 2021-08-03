@@ -2,6 +2,40 @@
 layout: default
 title: IMMERSE Log
 ---
+
+### Week 15: Aug 2, 2021 - Aug 6, 2021
+
+**Goals**:
+
+- Go through all python scripts I've made up until now with pylint to optimize and make more readable
+- Add a function to int_tile.py to trace any undefined nets back to either the GND or VCC causing the issue
+- Continue to research CLB tiles and other types of tiles to implement next into bit_inspector
+- Develop examples and a presentation to present to prjxray in collaboration with Cody
+
+**Monday**:
+
+- Optimize bits2model.py and fasm2model.py with pylint
+- Debug and Finish net trace function in int_tile
+- Rename int_tile.py to tile.py in anticipation for the implementation of other tile types
+
+**Tuesday**:
+
+- Optimize tile.py with pylint
+
+**Wednesday**:
+
+- 
+
+**Thursday**:
+
+- 
+
+**Friday**:
+
+- 
+
+----
+
 ### Week 14: July 26, 2021 - July 30, 2021
 
 **Goals**:
@@ -20,19 +54,24 @@ title: IMMERSE Log
 
 **Tuesday**:
 
-- 
+- Prepare technical presentation on bit_inspector
 
 **Wednesday**:
 
-- Technical Presentation
+- Prepare technical presentation on bit_inspector
+- Research CLB tiles and differences between different tile types for parsing and config bit functionality
 
 **Thursday**:
 
-- 
+- Research purpose of config bits in CLB tiles
+- Research different types of tiles in each of the parts in the prjxray 7series database
+- Clean up bits2model parsing a bit
+- Add in output type flag to bits2model and fasm2model to allow the user to determine what style of output is desired (text, simple graphic, or detailed graphic)
+- Research ethics case study for Broader Impacts
 
 **Friday**:
 
-- 
+- Create and develop a net trace function for int_tile.py to track all undefined nets obtained from the checkpoint file
 
 ----
 
