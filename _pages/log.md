@@ -24,15 +24,20 @@ title: IMMERSE Log
 
 **Wednesday**:
 
-- 
+- Finish and give Technical Presentation
+- Organized and developed plan for our next steps with Cody Arvonen
 
 **Thursday**:
 
-- 
+- Included nets as a class variable for the Tile class in tile.py
+- Separated out tile.py functions into multiple smaller functions to improve readability
+- Created python script to evaluate segbits_*.db files to make determining functionality of config bits easier for more types of tiles. 
 
 **Friday**:
 
-- 
+- Debug model printing to include muxes where opens are formed due to bitstream upsets
+- Separated out tile.py functions into multiple smaller functions to improve readability
+- Revised pylint scores for all three scripts and improved scores to 9.8+
 
 ----
 
