@@ -7,6 +7,39 @@ title: IMMERSE Log
 
 **Goals**:
 
+- Add function to define the role of each bit from the bit file in the implemented design
+- Finish Ethics case study analysis for Broader Impacts
+- Develop examples and demos for the Google presentation
+
+**Monday**:
+
+- Rearrange tile and mux modelling and printing functions to be class functions of the Tile class
+- Begin developing bit definition function
+
+**Tuesday**:
+
+- Develop bit definition function
+- Begin developing bit definition output option
+
+**Wednesday**:
+
+- Complete developing bit definition output option
+- Work on Ethics case study research and analysis
+
+**Thursday**:
+
+- 
+
+**Friday**:
+
+- 
+
+----
+
+### Week 15: Aug 2, 2021 - Aug 6, 2021
+
+**Goals**:
+
 - Go through all python scripts I've made up until now with pylint to optimize and make more readable
 - Add a function to int_tile.py to trace any undefined nets back to either the GND or VCC causing the issue
 - Continue to research CLB tiles and other types of tiles to implement next into bit_inspector
