@@ -26,7 +26,7 @@ Jackson Sahleen's website log for IMMERSE 2021
 |Fri:   | 9 AM - 5 PM |
 |       |              |
 
-Hours subject to change
+Hours subject to change. Most hours will be done remotely, with the exception of times for meetings and shortly after those meetings.
 
 ----
 

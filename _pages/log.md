@@ -3,7 +3,37 @@ layout: default
 title: IMMERSE Log
 ---
 
-### Week 15: Aug 2, 2021 - Aug 6, 2021
+### Week 17: Aug 16, 2021 - Aug 20, 2021
+
+**Goals**:
+
+- Get fasm2bels up and running and evaluate its usefulness for adding BELs to bit_inspector
+- Develop examples and demos of current progress for Google presentation
+
+**Monday**:
+
+- Ethics Case Study Analysis
+- Install fasm2bels and get it up and running
+
+**Tuesday**:
+
+- 
+
+**Wednesday**:
+
+- 
+
+**Thursday**:
+
+- 
+
+**Friday**:
+
+- 
+
+----
+
+### Week 16: Aug 9, 2021 - Aug 13, 2021
 
 **Goals**:
 
@@ -28,11 +58,12 @@ title: IMMERSE Log
 
 **Thursday**:
 
-- 
+- Resolve bugs with bit definition function and analyze results
+- Ethics Case Study Analysis
 
 **Friday**:
 
-- 
+- Ethics Case Study Analysis
 
 ----
 
