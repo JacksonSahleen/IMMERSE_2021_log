@@ -3,17 +3,17 @@ layout: default
 title: IMMERSE Log
 ---
 
-### Week 17: Aug 16, 2021 - Aug 20, 2021
+### Week 18: Aug 23, 2021 - Aug 27, 2021
 
 **Goals**:
 
-- Get fasm2bels up and running and evaluate its usefulness for adding BELs to bit_inspector
-- Develop examples and demos of current progress for Google presentation
+- Analyze fasm2bels code and determine their methodology for techmapping the board resources
+- Develop initial plans for the direction of developments for bit_inspector code
+- Develop examples and demos for Google Presentation
 
 **Monday**:
 
-- Ethics Case Study Analysis
-- Install fasm2bels and get it up and running
+- 
 
 **Tuesday**:
 
@@ -30,6 +30,43 @@ title: IMMERSE Log
 **Friday**:
 
 - 
+
+----
+
+### Week 17: Aug 16, 2021 - Aug 20, 2021
+
+**Goals**:
+
+- Get fasm2bels up and running and evaluate its usefulness for adding BELs to bit_inspector
+- Be able to create a new Vivado project from fasm2bels output with and without an input xdc file
+
+**Monday**:
+
+- Ethics Case Study Analysis
+- Install fasm2bels and get it up and running
+
+**Tuesday**:
+
+- Install fasm2bels and get it up and running
+- Fixed bit definition output and footer for bits2model.py
+- Updated tile.py and cleaned up some of its longest functions
+
+**Wednesday**:
+
+- Get fasm2bels up and running
+- Write a bash script to facilitate the use of fasm2bels
+- Write a tcl script to create a project from the fasm2bels output, as well as synthesize and implement the design
+
+**Thursday**:
+
+- Troubleshoot fasm2bels and making a project from its output
+- Analyze project results and fasm2bels outputs for usefulness
+- Develop basic ideas for future needs and developments of bit_inspector code
+
+**Friday**:
+
+- Get an old project up and running with an xdc to fully test fasm2bels
+- Analyze fasm2bels code
 
 ----
 
